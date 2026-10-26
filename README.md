@@ -1,18 +1,14 @@
 # AgentPro
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2402.17574)
-[![QbitAI](https://img.shields.io/badge/QbitAI-Article-007bff.svg)](https://www.qbitai.com/2024/03/127294.html)
-[![Jiangmen Ventures](https://img.shields.io/badge/JiangmenVentures-Article-007bff.svg)](https://mp.weixin.qq.com/s/gD4pZc6pvX8f_62uiPJacg)
 
 
 🎆 [New 0517] **Our paper is accepted by ACL 2024 Main**
 
 🎆 [New 0511] **Agent-Pro is presented in ICLR 2024 LLMAgents Workshop, Vienna.**
 
-🎆 [New 0326] **Our article has been noticed and reported by Jiangmen Ventures(将门创投). (https://mp.weixin.qq.com/s/gD4pZc6pvX8f_62uiPJacg)**
 
 🎆 [New 0301] **Agent-Pro is accepted by ICLR 2024 LLMAgents Workshops as a Poster paper.(https://llmagents.github.io/)**
 
-🎆 [New 0227] **Our article has been noticed and reported by QbitAI(量子位): [![QbitAI Article](https://img.shields.io/badge/QbitAI-Article-007bff.svg)](https://www.qbitai.com/2024/03/127294.html).**
 <video src="https://github.com/zwq2018/Agent-Pro/assets/44236100/95fcde18-ffbb-48da-8917-81e1af74b0c3" width="640" height="480" autoplay loop></video>
 
 
@@ -20,11 +16,6 @@
 AgentPro, built upon RLCard, seamlessly connects to large models like GPT, LLama, QWEN, and more. These interfaces facilitate the integration of RLCard's functionalities with robust language models, enabling advanced applications in natural language processing and reinforcement learning.
 
 See our paper: [Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization](https://arxiv.org/abs/2402.17574), Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu
-
-## Media Coverage · 媒体报道
-
-- **量子位 · 2024.03** — [浙大&中科院让Agent学会自我进化，玩德州扑克心机尽显](https://www.qbitai.com/2024/03/127294.html)
-- **将门创投 · 2024.03** — [Agent-Pro 专题报道](https://mp.weixin.qq.com/s/gD4pZc6pvX8f_62uiPJacg)
 
 ## Installation
 Ensure that you have Python 3.6+ and pip installed. Additionally, confirm that your Python environment includes the PyTorch, OpenAI, and RLCard libraries before proceeding with the installation of AgentPro.
