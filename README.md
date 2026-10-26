@@ -5,6 +5,11 @@ AgentPro, built upon RLCard, seamlessly connects to large models like GPT, LLama
 
 See our paper: [Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization](https://arxiv.org/abs/2402.17574), Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu
 
+## Media Coverage · 媒体报道
+
+- **量子位 · 2024.03** — [浙大&中科院让Agent学会自我进化，玩德州扑克心机尽显](https://www.qbitai.com/2024/03/127294.html)
+- **将门创投 · 2024.03** — [Agent-Pro 专题报道](https://mp.weixin.qq.com/s/gD4pZc6pvX8f_62uiPJacg)
+
 ## Installation
 Ensure that you have Python 3.6+ and pip installed. Additionally, confirm that your Python environment includes the PyTorch, OpenAI, and RLCard libraries before proceeding with the installation of AgentPro.
 
